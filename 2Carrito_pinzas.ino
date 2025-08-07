@@ -1,6 +1,4 @@
-Aquí está el código completo con comentarios detallados:
 
-```cpp
 // Inclusión de bibliotecas necesarias
 #include <WiFi.h>          // Biblioteca para la conexión WiFi del ESP32
 #include <DNSServer.h>     // Biblioteca para servidor DNS (para posibles funciones de portal cautivo)
